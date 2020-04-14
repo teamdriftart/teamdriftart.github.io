@@ -640,6 +640,10 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
+.cid-rW9rh1CwvB .mbr-text,
+.cid-rW9rh1CwvB .mbr-section-btn {
+  text-align: right;
+}
 .cid-rW9wPLqoJ5 {
   background-image: url("../../../assets/images/1.png");
 }
